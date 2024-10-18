@@ -1,4 +1,4 @@
-👋 Hi, I’m Welcome to my GitHub profile!
+**👋 Hi, Welcome to my GitHub profile!**
 
 I'm Michael Udonna Egbuzobi, a Data Scientist with a passion for the intersection of business management and data-driven innovation. With over three years of business experience and two years of data science expertise, I bring a unique blend of operational management and analytical skills to drive impactful solutions.
 
