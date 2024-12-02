@@ -14,6 +14,9 @@ I'm Michael Udonna Egbuzobi, a Data Scientist with a passion for the intersectio
 
  **🏅 Achievements**
 - Finalist in the SAS Curiosity Cup 2024: Ranked 7th out of 15 teams in the final round of a global competition featuring 107 teams. Utilized SAS Viya, an AI and analytics software, to address traffic accidents in the Netherlands, representing one of only two teams from the University of Wolverhampton.
+  
+![SAS Badge](https://github.com/UdonnaM/SAS-Curiosity-Cup2024/blob/main/images/SAS-Finalist.jpg)
+
 - School Representative at the University of Wolverhampton: Acted as a liaison between students and faculty, representing the student body and contributing to university decision-making processes.
 - Successfully developed and deployed Machine learning Flask applications, showcasing end-to-end machine learning models and web interfaces.
 - Farm Management: Led successful business operations in agriculture, combining hands-on management experience with a problem-solving mindset.
