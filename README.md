@@ -8,7 +8,7 @@ I'm Michael Udonna Egbuzobi, a Data Scientist with a passion for the intersectio
 
 👀 My vision is to continuously improve, becoming the best version of myself while contributing to forward-thinking organizations. I'm driven by curiosity and a passion for innovation, always seeking ways to use data to create actionable strategies that propel businesses forward.
 
-🌱 I’m currently working on numerous projects as a data science intern for @data glacier, such as NLP hate speech Hate detection project using transformers.
+🌱 I recently wrapped up my data science internship with @data glacier, where I worked on multiple projects, including an NLP hate speech detection project using transformers.
 
 ⚡ Fun fact: I am a health and gym enthusiast. I continuously push the boundaries, eager to learn new things and upskill.  
 
