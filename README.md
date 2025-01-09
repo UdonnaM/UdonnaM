@@ -13,6 +13,10 @@ I'm Michael Udonna Egbuzobi, a Data Scientist with a passion for the intersectio
 ⚡ Fun fact: I am a health and gym enthusiast. I continuously push the boundaries, eager to learn new things and upskill.  
 
  **🏅 Achievements**
+  - I became a CompTIA Certified Data Analyst on 5/01/2025. I went back to the basics in order to deepen my understanding of data analysis fully and continue expanding my career.
+
+  Link to badge: [CompTIA Data+]([https://www.credly.com/badges/a8cc79f2-bb6b-4e3e-ab71-cb5dc22409ea/public_url]
+  
 - Finalist in the SAS Curiosity Cup 2024: Ranked 7th out of 15 teams in the final round of a global competition featuring 107 teams. Utilized SAS Viya, an AI and analytics software, to address traffic accidents in the Netherlands, representing one of only two teams from the University of Wolverhampton.
   
   Link to badge: [2024 SAS curiosity cup finalist](https://www.credly.com/badges/a8cc79f2-bb6b-4e3e-ab71-cb5dc22409ea/public_url)
